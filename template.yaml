@@ -3,14 +3,14 @@ kind: Template
 metadata:
   name: k3t-php8-laravel-rest
   title: PHP 8 Laravel Rest API
-  description: 
+  description: Cria um microserviço com exposição Rest usando PHP8 e Laravel framework
   tags:
     - api
     - rest
     - php8
     - laravel
 spec:
-  owner: 
+  owner: tech@kode3.tech
   type: service
   parameters:
     - title: Provide some simple information
